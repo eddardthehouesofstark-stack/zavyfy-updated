@@ -694,29 +694,7 @@ alembic upgrade head
 uvicorn main:app --reload
 ```
 
----
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/1200x600?text=Executive+Dashboard+-+KPIs+%26+Trends)
-
-### Application List
-![Application List](https://via.placeholder.com/1200x600?text=Application+Registry+-+Search+%26+Filter)
-
-### Application Details
-![Application Details](https://via.placeholder.com/1200x600?text=Application+Detail+View+-+Multi+Tab+Interface)
-
-### AI Findings
-![AI Findings](https://via.placeholder.com/1200x600?text=AI+Findings+-+Evidence+Linked+Recommendations)
-
-### AI Workflow Processing
-![AI Workflow](https://via.placeholder.com/1200x600?text=8+Agent+AI+Pipeline+-+Real+Time+Progress)
-
-### Officer Dashboard
-![Officer Dashboard](https://via.placeholder.com/1200x600?text=Officer+Workspace+-+Priority+Queue)
-
----
 
 ## 📊 Implementation Status
 
