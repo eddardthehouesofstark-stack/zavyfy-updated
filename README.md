@@ -1,4 +1,4 @@
-# AICTE Approval Intelligence Platform
+# Zavyfy
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ## 📌 Overview
 
-The **AICTE Approval Intelligence Platform** is an AI-powered decision support system designed to revolutionize how AICTE (All India Council for Technical Education) officers validate institutional applications. This platform combines cutting-edge AI, document intelligence, and compliance automation to accelerate approvals while maintaining the highest standards of regulatory compliance and fraud detection.
+**Zavyfy** is an AI-powered decision support system designed to revolutionize how AICTE (All India Council for Technical Education) officers validate institutional applications. This platform combines cutting-edge AI, document intelligence, and compliance automation to accelerate approvals while maintaining the highest standards of regulatory compliance and fraud detection.
 
 ### 🎯 Problem Statement
 
